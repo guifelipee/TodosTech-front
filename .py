@@ -1,0 +1,1 @@
+print('o caio é lindo')
